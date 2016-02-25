@@ -10,4 +10,5 @@
 	-- Ionic provides a framework like bootstrap, out of the box Javascript component and css.
 	-- And it can easily be customized to meet your specific needs.
 	-- Quick look at the Ionic website - http://ionicframework.com/
-	-- Read details - http://ionicframework.com/docs/guide/preface.html
+	-- Read details 1. http://ionicframework.com/docs/guide/preface.html 2. https://github.com/driftyco/ionic
+	
