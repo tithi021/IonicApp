@@ -25,4 +25,26 @@
 
 	-- Re-use existing web framework
 		- Not only can we leverage existing web skills but also existing web framework. There is no better example than the ionic framework is built on top of angularjs.All of your existing angualarjs knowledge will transfer when using the ionic framework in a cordova app.
+
 	-- Quick look at the Cordova website - https://cordova.apache.org/
+
+# Getting started with Ionic
+
+	# Ionic command line features
+
+		1. start : starts a new ionic project
+		2. serve : starts a local development serve
+		3. platform : configure platform target
+		4. build : locally build app for a platform
+		5. emulator : emulate app in simulator
+		6. run : run app on device
+
+	# Installing Ionic
+
+		1. Before installing ionic, you must have NODEJS install in your machine
+		2. From my command line prompt, install Ionic
+				npm install ionic -g
+		3. Install cordova
+				npm install cordova -g
+
+		With those two installations complete we are now ready to start using Ionic 
