@@ -22,6 +22,7 @@
 
 	-- Re-use existing web skill
 		- Since cordova enables developers to use HTML and Javascript, this means we can reuse our existing web skills. 
-		
+
 	-- Re-use existing web framework
 		- Not only can we leverage existing web skills but also existing web framework. There is no better example than the ionic framework is built on top of angularjs.All of your existing angualarjs knowledge will transfer when using the ionic framework in a cordova app.
+	-- Quick look at the Cordova website - https://cordova.apache.org/
