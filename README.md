@@ -58,3 +58,9 @@
 
 		And you can see the firstIonicApp folder in your local directory.
 
+	# Run the app with a browser
+
+		After going to firstIonicApp into that directory, just type-
+				ionic serve
+	 	Then check in web browser ionic app runnig on localhost at port 8100.
+	 # 
