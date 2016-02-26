@@ -47,4 +47,14 @@
 		3. Install cordova
 				npm install cordova -g
 
-		With those two installations complete we are now ready to start using Ionic 
+		With those two installations complete we are now ready to start using Ionic
+
+	# Starting a new project
+
+		1. With ionic installed it's time to create our first project. we'll use the ionic start command
+				ionic start [appName] [template]
+		2. Here's an example of creating a project called firstIonicApp using the blank starter template
+				ionic start firstIonicApp blank
+
+		And you can see the firstIonicApp folder in your local directory.
+
