@@ -60,7 +60,23 @@
 
 	# Run the app with a browser
 
-		After going to firstIonicApp into that directory, just type-
+		After going to firstIonicApp into that directory, just type in command line,
 				ionic serve
 	 	Then check in web browser ionic app runnig on localhost at port 8100.
-	 # 
+
+	 # Run the app with an Emulator
+
+	 	Just type in command line,
+	 	For Android,
+	 			ionic platform add android
+	 			ionic build android
+	 			ionic emulate android
+	 	For IOS,
+	 			ionic platform add ios
+	 			ionic build ios
+	 			ionic emulate ios
+
+
+
+
+
